@@ -1,0 +1,156 @@
+.row,
+.home-menu {
+	height: 44px;
+}
+
+.home-middle {
+	text-align: center;
+}
+
+.home-right {
+	text-align: right;
+}
+
+.home-left,
+.home-middle,
+.home-right {
+	line-height: 44px;
+	height: 100%;
+	border-bottom: 1px solid #f2f2f2;
+}
+
+.home-left img {
+	height: 15px;
+}
+
+.home-middle img {
+	margin: 0 auto;
+	height: 15px;
+	width: 46px;
+}
+
+.home-right img {
+	width: 18px;
+}
+
+.home-menu {
+	border-bottom: 1px solid #ffcb3f;
+	text-align: center;
+	height: 44px;
+	box-shadow: 0px 0.5px 5px rgba(7, 7, 7, .5);
+}
+
+.home-he {
+	line-height: 44px;
+	color: #737373;
+}
+
+.home-banner {
+	width: 100%;
+	height: 192px;
+	position: relative;
+}
+
+.home-banner img {
+	width: 100%;
+}
+
+.home-button {
+	width: 45px;
+	height: 4px;
+	position: absolute;
+	bottom: 16px;
+	left: 50%;
+	right: 50%;
+	transform: translate(0px, -50%);
+}
+
+.home-button_1 {
+	width: 3.5px;
+	height: 3.5px;
+	border: 1px solid #fff;
+	border-radius: 1px;
+	float: left;
+	margin-right: 8px;
+}
+
+.bth {
+	background: #FFFFFF;
+}
+
+.home-small {
+	width: 74px;
+	height: 33px;
+	margin: 45px auto 34px;
+}
+
+.home-small-title {
+	border-top: 1px solid #d7d7d7;
+	position: relative;
+}
+
+.home-small-title:after {
+	content: '';
+	background: #ffcb3f;
+	position: absolute;
+	width: 23px;
+	height: 1px;
+	top: -4px;
+	left: 0;
+}
+
+.home-small-title:before {
+	content: '';
+	background: #000;
+	position: absolute;
+	width: 16px;
+	height: 1px;
+	bottom: -4px;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%, 0px);
+}
+
+.home-title-en {
+	font-size: 9px;
+}
+
+.home-small-zh {
+	font-size: 16px;
+}
+
+.home-small-zh b {
+	color: #ffcb3f;
+}
+
+.home-small-more {
+	position: absolute;
+	bottom: -40px;
+	right: -150%;
+	font-size: 9px;
+}
+
+.home-small-more b {
+	color: #FFCB3F;
+	font-size: 10px;
+}
+.home-small-detail{
+	padding:35px 5% 0px;
+}
+.home-small-show1{
+	width: 155px;
+	height: 255px;
+	background: #FFFFFF;
+	overflow: hidden;
+}
+.home-small-show1 li{
+	height: 122px;
+}
+
+.home-small-p{
+	h1
+}
+
+.home-small-show1 img{
+	width: 155px;
+}
