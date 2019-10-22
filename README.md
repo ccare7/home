@@ -1,12 +1,12 @@
-# Î¢ÍøÕ¾
+# å¾®ç½‘ç«™
 
-10¡¢11¡¢12Î´ÕÒµ½ÎÄ¼þ
+10ã€11ã€12æœªæ‰¾åˆ°æ–‡ä»¶
 
-* 1¡¢Ê×Ò³ 2¡¢·ÖÀà 3¡¢ÎÒµÄ 4¡¢ËÑË÷ 5¡¢¹ºÎï³µ 6¡¢ÏêÇé 7¡¢ÆÀÂÛ 8¡¢ÌîÐ´¶©µ¥ 
-* 9¡¢Ìí¼ÓÊÕ»õµØÖ· 10¡¢Ö§¸¶³É¹¦ 
-* 11¡¢ÎÒµÄ¶©µ¥¡¢12¡¢ÎÒµÄÊÕ²Ø 13¡¢±à¼­¸öÈËÐÅÏ¢ 14¡¢¿Í·þ 15¡¢ÉêÇëÍË»õ 16¡¢ÍË»õ 
-* 17¡¢ä¯ÀÀ¼ÇÂ¼ 18¡¢ÎÒÒªÆÀ¼Û 19¡¢ÉèÖÃ 20¡¢ÎÒµÄÊÕ»ñµØÖ· 21¡¢Î¢ÍøÕ¾ 22¡¢ÓÅ»ÝÈ¯
-#·Ö×é
+* 1ã€é¦–é¡µ index.html 2ã€åˆ†ç±» Classifi.html 3ã€æˆ‘çš„ Mine.html 4ã€æœç´¢ Search.html  5ã€è´­ç‰©è½¦ Shopping.html 6ã€è¯¦æƒ… Details.html 7ã€è¯„è®º Comment.html 8ã€å¡«å†™è®¢å• FillOrder.html
+* 9ã€æ·»åŠ æ”¶è´§åœ°å€ Address.html 10ã€æ”¯ä»˜æˆåŠŸ Success.html 
+* 11ã€æˆ‘çš„è®¢å•ã€Mine_fid.html 12ã€æˆ‘çš„æ”¶è— Collection.html 13ã€ç¼–è¾‘ä¸ªäººä¿¡æ¯Edit pe.html 14ã€å®¢æœ Customer_ser.html 15ã€ç”³è¯·é€€è´§Application_ret 16ã€é€€è´§ Return.html
+* 17ã€æµè§ˆè®°å½• Recording.html 18ã€æˆ‘è¦è¯„ä»· Evaluation.html 19ã€è®¾ç½® Setting.html 20ã€æˆ‘çš„æ”¶èŽ·åœ°å€ Mine_address 21ã€å¾®ç½‘ç«™ Microsite.html 22ã€ä¼˜æƒ åˆ¸ Coupon.html
+#åˆ†ç»„
 
-Ï¯¹úÇì1-8  ¡¢  µË¶÷»Ý 11-16 ¡¢Å£ÒÀ·² 17-22
-ÎÄ¼þ²»¹»£¬ÔÝÊ±·Ö×é£¬ÆäËûÒ³ÃæºÏ×÷Íê³É¡£
+å¸­å›½åº†1-8  ã€  é‚“æ©æƒ  11-16 ã€ç‰›ä¾å‡¡ 17-22
+æ–‡ä»¶ä¸å¤Ÿï¼Œæš‚æ—¶åˆ†ç»„ï¼Œå…¶ä»–é¡µé¢åˆä½œå®Œæˆã€‚
